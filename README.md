@@ -1,2 +1,2 @@
-# osmio.github.io
-The source code for the personal page of this user.
+# osmio7.github.io
+Source code for my personal page on GitHub Pages.
